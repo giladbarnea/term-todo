@@ -4,8 +4,8 @@
   - [ ] pypi
 
 # Inter-project features
-- [ ] `blocked` directive
-  `ipdbx/TODO.md` has `- [ ] blabla (blocked by: ipython rich pretty printer from config)`
+- [ ] `blocked by` directive (also `blocking`)
+  `ipdbx/TODO.md` has `- [ ] blabla (blocked by: ipython > rich > pretty printer from config)`
   `ipyton/TODO.md` has
   ```md
   - [ ] `rich`
@@ -15,9 +15,11 @@
 # CLI
 - [ ] `add`
   - [ ] `td add bla`
-  - [ ] `td add # section`
-  - [ ] `td add existing > new item`
+  - [ ] `td add '# section'`
+  - [ ] `td add 'existing > new item'`
 - [ ] `done`
+- [ ] `rm`
+- [ ] `update 'item > subitem' 'blabla new content'`
 
 # Thoughts
 - `git` intergration
