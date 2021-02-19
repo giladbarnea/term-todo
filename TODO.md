@@ -11,6 +11,8 @@
   - [ ] `rich`
     - [ ] pretty printer from config?
   ```
+- [ ] `@` directive
+  `IGit/TODO.md` has `- main.py for @prompt_toolkit usages`
 
 # CLI
 - [ ] `add`
@@ -23,4 +25,4 @@
 
 # Thoughts
 - `git` intergration
-  - link to commit hash
+  - link items with commit hash
