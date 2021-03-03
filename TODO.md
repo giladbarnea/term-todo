@@ -26,3 +26,4 @@
 # Thoughts
 - `git` intergration
   - link items with commit hash
+  - date with `git blame`
